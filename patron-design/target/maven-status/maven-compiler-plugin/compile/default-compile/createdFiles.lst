@@ -1,0 +1,5 @@
+com\example\patrondesign\entities\Configuration.class
+com\example\patrondesign\entities\Persona$PersonaBuilder.class
+com\example\patrondesign\entities\Persona.class
+com\example\patrondesign\PatronDesignApplication.class
+com\example\patrondesign\entities\PersonaService.class
